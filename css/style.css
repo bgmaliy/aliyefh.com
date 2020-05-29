@@ -24,7 +24,7 @@ html {
 }
 
 body {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Product Sans', sans-serif;
   margin: 0;
   padding: 0;
   height: 100%;
@@ -41,7 +41,7 @@ h1 {
 }
 
 h2 {
-  color: #777777;
+  color: #4d4acf;
   margin-top: 30px;
   margin-bottom: 20px;
   font-size: 22px;
@@ -73,6 +73,7 @@ figure {
   display: inline-block;
 }
 .social li a {
+  font-family: 'Ubuntu', sans-serif;
   font-size: 24px;
   color: #6f8cf7;
   padding-left: 10px;
@@ -108,6 +109,7 @@ figure {
 /* Footer */
 #footer {
   color: #777777;
+  font-family: 'Ubuntu', sans-serif;
   font-size: 14px;
   position: absolute;
   bottom: 0;
